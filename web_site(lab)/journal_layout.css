@@ -1,0 +1,34 @@
+body{
+	margin: 0px 250px;
+	background-image: url("back.jpg");
+}
+div{
+	border: 5px white solid;
+	background: white;
+	margin-top: : 10px;
+	padding: 5px 5px 5px 5px;
+}
+.Paragraph{
+	border: 4px #C2E9E9 solid;
+	background: #E8FBFB;
+	margin: 10px;
+	padding: 5px 5px 50px 50px;
+}
+.T1{
+	text-align: right;
+	background: #A8F0F0
+}
+#Header{
+	font-size: 14pt;
+	background: #A8F0F0;
+}
+span{
+	border: 2px blue dashed;
+	margin-top: : 10px;
+	padding: 0px 5px 5px 5px;
+}
+.Image{
+	float: right;
+	 clear: left; 
+    padding: 2px;
+}
